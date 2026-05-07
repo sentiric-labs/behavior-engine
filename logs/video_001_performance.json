@@ -1,0 +1,17 @@
+{
+  "video_id": "WL-001",
+  "title": "Neden Hiçbir Şey 'Gerçek' Hissettirmiyor?",
+  "days_since_published": 7,
+  "metrics": {
+    "views": 14500,
+    "ctr_percentage": 11.2,
+    "average_view_duration_percentage": 32.5,
+    "likes_to_dislikes_ratio": 98.2,
+    "comments_sentiment": {
+      "positive": 45,
+      "neutral": 35,
+      "negative": 20,
+      "top_keywords":["harika görsel", "çok yavaş", "uykum geldi", "aydınlandım", "müzik çok iyi"]
+    }
+  }
+}
